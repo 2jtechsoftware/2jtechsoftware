@@ -1,6 +1,6 @@
-<!-- Banner de Boas-Vindas / Cabeçalho -->
+<!-- Banner Personalizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&customColorList=0,5,10&height=200&section=header&text=2J%20Tech%20Software&fontSize=40&fontColor=67effb&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://github.com/2jtechsoftware/2jtechsoftware/blob/main/banner.png?raw=true" alt="2J Tech Banner" width="100%" />
 </p>
 
 <h3 align="center" style="color: #67effb;">
